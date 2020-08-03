@@ -6,3 +6,5 @@ I'm Zhun Onn! I'm a 15-year-old developer from Malaysia. I mainly work on Discor
 - Discord: [zhon12345#8585](https://discord.gg/GGMsqS9)
 - Reddit: [Zenon_Gaming](https://www.reddit.com/user/Zenon_Gaming)
 - Twitter: [@zhon12345](https://twitter.com/zhon12345)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhon12345&theme=dark" />
