@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Zhun Onn! I'm a 15-year-old developer from Malaysia. I mainly work on Discord bots but I do web development time to time. As of now, the languages I know are Node.JS, HTML, CSS & Vanilla JavaScript.
+I'm Zhun Onn! I'm a 15-year-old developer from Malaysia. I mainly work on Discord bots but I do web development from time to time. As of now, the languages I know are Node.JS, HTML, CSS & Vanilla JavaScript.
 
 ### Contact Me
 - Discord: [zhon12345#8585](https://discord.gg/GGMsqS9)
