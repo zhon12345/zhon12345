@@ -7,7 +7,7 @@ I'm Zhun Onn! I'm a 15-year-old developer from Malaysia. I mainly work on Discor
 - Reddit: [REDACTED](https://www.reddit.com/user/REDACTED)
 - Twitter: [REDACTED](https://twitter.com/REDACTED)
 
----
+### Stats
 
 <details>
 <summary><u><b>GitHub stats</b></u></summary>
@@ -17,7 +17,7 @@ I'm Zhun Onn! I'm a 15-year-old developer from Malaysia. I mainly work on Discor
 </details>
 
 <details>
-<summary><u><b>Commonly used languages</b></u></summary>
+<summary><u><b>Common languages</b></u></summary>
 <a href="https://github.com/zhon12345/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhon12345&layout=compact&theme=dark" />
 </a>
