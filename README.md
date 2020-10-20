@@ -16,7 +16,7 @@ I'm Zhun Onn! I'm a 15-year-old developer from Malaysia. I mainly work on Discor
 </a></p>
 <p> <a href="https://www.python.org/">
 <img align="left" alt="python" width="26px" href="https://www.python.org/" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
-</a></p><br><br>
+</a></p><br>
 
 ### Contact Me ☎
 - Discord: [zhon12345#8585](https://discord.gg/jMpw3jw)
@@ -24,7 +24,6 @@ I'm Zhun Onn! I'm a 15-year-old developer from Malaysia. I mainly work on Discor
 - Twitter: [@zhon12345](https://twitter.com/zhon12345)
 
 ### Stats 📊
-
 <details>
 <summary><u><b>GitHub stats</b></u></summary>
 <a href="https://github.com/zhon12345/">
