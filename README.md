@@ -9,7 +9,7 @@
 
 - 📫 Reach me on Discord [zhon12345#8585](https://discord.gg/jMpw3jw)
 
-<h3 align="center">Languages and Tools</h3>
+<h3 align="center">✏ Languages and Tools</h3>
 <p align="center"> 
 <a href="https://www.w3schools.com/css/" target="_blank"> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -34,7 +34,7 @@
 </a> </p>
 <br>
 
-<h3 align="center">📊 Statistics</h3>
+<h3 align="center">📊 GitHub Statistics</h3>
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.zhon12345.vercel.app/api?username=zhon12345&show_icons=true&include_all_commits=true&theme=react&hide=contribs,prs" />
 </a>
