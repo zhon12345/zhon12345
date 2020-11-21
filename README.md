@@ -2,9 +2,12 @@
 
 I am **Ng Zhun Onn**, currently a full time student from <img src="https://image.flaticon.com/icons/svg/197/197581.svg" width="15" /> **Kuala Lumpur, Malaysia**. I mainly work on Discord bots such as [Tavern Keeper](https://github.com/zhon12345/Tavern_Keeper), [Ticket Bot](https://github.com/zhon12345/Ticket-Bot) and [Python Bot](https://github.com/zhon12345/Python_Bot) but from time to time I do web development too. I am intrested in all thing related to computer hardware but too broke to get into it 😭.
 
-<img align="right" alt="zhon12345's github stats" width="50%" src="https://github-readme-stats.zhon12345.vercel.app/api?username=zhon12345&show_icons=true&include_all_commits=true&theme=react">
 <h3>⚡ Quick Facts</h3>
+<p>
+	<img align="right" alt="zhon12345's github stats" width="50%" src="https://github-readme-stats.zhon12345.vercel.app/api?username=zhon12345&show_icons=true&include_all_commits=true&theme=react">
+</p>
 
+- 👨‍💻 Most of my projects are available on [GitHub](https://github.com/zhon12345)
 -   🔭 I’m currently working on [Tavern Keeper](https://github.com/zhon12345/Tavern_Keeper)
 -   🌱 I’m currently learning **React.js**
 -   💬 Ask me questions regarding **Discord.js**
@@ -12,12 +15,16 @@ I am **Ng Zhun Onn**, currently a full time student from <img src="https://image
 	<a href="https://discord.gg/REDACTED">
   		<img align="center" alt="zhon12345's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 	</a>
+	<a href="https://reddit.com/REDACTED">
+  		<img align="center" alt="zhon12345's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" />
+	</a>
 	<a href="https://twitter.com/REDACTED">
   		<img align="center" alt="zhon12345's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 	</a>
 	<a href="https://dev.to/REDACTED">
   		<img align="center" alt="zhon12345's DEV.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" />
 	</a>
+-	😄 Pronouns: **He/Him**
 -   🎉 Fun fact **I can play the drums 🥁**
 
 <h3>✏ Languages and Tools</h3>
@@ -49,4 +56,11 @@ I am **Ng Zhun Onn**, currently a full time student from <img src="https://image
 	<a href="https://www.mongodb.com/">
 		<code><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></code>
 	</a>
+</p>
+
+---
+<p align="center">
+	<img align="top" alt="stars" src="https://img.shields.io/github/stars/zhon12345/zhon12345?style=flat" />
+	<img align="top" alt="viewers" src="https://visitor-badge.glitch.me/badge?page_id=zhon12345.zhon12345" />
+	<img align="top" alt="forks" src="https://img.shields.io/github/forks/zhon12345/zhon12345?style=flat" />
 </p>
