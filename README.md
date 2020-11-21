@@ -24,7 +24,7 @@ I am **Ng Zhun Onn**, currently a full time student from <img src="https://image
 	<a href="https://dev.to/zhon12345">
   		<img align="center" alt="zhon12345's DEV.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" />
 	</a>
--	😄 Pronouns: He/Him
+-	😄 Pronouns: **He/Him**
 -   🎉 Fun fact **I can play the drums 🥁**
 
 <h3>✏ Languages and Tools</h3>
