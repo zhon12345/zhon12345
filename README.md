@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **discord.js**
 
-- 📫 Reach me on Discord **zhon12345#8585**
+- 📫 Reach me on Discord [zhon12345#8585](https://discord.gg/jMpw3jw)
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center"> 
@@ -36,8 +36,8 @@
 
 <h3 align="center">📊 Statistics</h3>
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zhon12345&show_icons=true&include_all_commits=true&theme=react" />
+  <img align="center" src="https://github-readme-stats.zhon12345.vercel.app/api?username=zhon12345&show_icons=true&include_all_commits=true&theme=react" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhon12345&layout=compact&theme=dark" />
+  <img align="center" src="https://github-readme-stats.zhon12345.vercel.app/api/top-langs/?username=zhon12345&layout=compact&theme=dark" />
 </a></p>
