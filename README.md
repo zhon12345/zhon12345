@@ -1,6 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Ng Zhun Onn</h1>
 <h3 align="center">I mainly work on Discord bots but I do web development from time to time.</h3>
-<br>
 
 - 🔭 I’m currently working on [Tavern Keeper](https://github.com/zhon12345/Tavern_Keeper)
 
@@ -9,7 +8,6 @@
 - 💬 Ask me about **discord.js**
 
 - 📫 Reach me on Discord **zhon12345#8585**
-<br>
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center"> 
