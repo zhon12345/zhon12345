@@ -36,7 +36,7 @@
 
 <h3 align="center">📊 Statistics</h3>
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.zhon12345.vercel.app/api?username=zhon12345&show_icons=true&include_all_commits=true&theme=react" />
+  <img align="center" src="https://github-readme-stats.zhon12345.vercel.app/api?username=zhon12345&show_icons=true&include_all_commits=true&theme=react&hide=contribs,prs" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.zhon12345.vercel.app/api/top-langs/?username=zhon12345&layout=compact&theme=dark" />
