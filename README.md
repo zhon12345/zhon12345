@@ -1,6 +1,6 @@
 ## Hi there 👋, Welcome to my GitHub profile!
 
-I am **Ng Zhun Onn**, currently a full time student from <img src="https://image.flaticon.com/icons/svg/197/197581.svg" width="15" /> **Kuala Lumpur, Malaysia**. I mainly work on Discord bots such as [Tavern Keeper](https://github.com/zhon12345/Tavern_Keeper), [Ticket Bot](https://github.com/zhon12345/Ticket-Bot) and [Python Bot](https://github.com/zhon12345/Python_Bot) but from time to time I do web development too. I am intrested in all thing related to computer hardware but too broke to get into it 😭.
+I see you have stumbled upon my GitHub account so let me introduce myself. My name is Ng Zhun Onn who currently is a full-time student from <img src="https://image.flaticon.com/icons/svg/197/197581.svg" width="15" /> **Kuala Lumpur, Malaysia**. I mainly work on Discord bots such as [Tavern Keeper](https://github.com/zhon12345/Tavern_Keeper), [Ticket Bot](https://github.com/zhon12345/Ticket-Bot) and [Python Bot](https://github.com/zhon12345/Python_Bot). However, I've started getting into web development lately, and I've created a few projects that you can check out below. I am also a HUGE tech geek that is interested in all things related to computer hardware. Unfortunately, I'm too broke to get into it 😭.
 
 <h3>⚡ Quick Facts</h3>
 <p>
