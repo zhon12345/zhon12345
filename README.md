@@ -43,7 +43,7 @@ Not to mention that I am also a HUGE tech geek that is interested in all things 
   		<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" width="40" height="40"/></code>
 	</a> 
 	<a href="https://www.javascript.com/" target="_blank"> 
-  		<code><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></code>
+  		<code><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></code>
 	</a> 
 	<a href="https://nodejs.org" target="_blank"> 
   		<code><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></code>
