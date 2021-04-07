@@ -12,7 +12,7 @@ Not to mention that I am also a HUGE tech geek that is interested in all things 
 </p>
 
 - 👨‍💻 Most of my projects are available on [GitHub](https://github.com/zhon12345)
--   🔭 I’m currently working on [Tavern Keeper](https://github.com/zhon12345/Tavern_Keeper)
+-   🔭 I’m currently working on Tavern Keeper
 -   🌱 I’m currently learning **React.js**
 -   💬 Ask me questions regarding **Discord.js**
 -   📫 Reach me on 
