@@ -2,9 +2,7 @@
 
 I see you have stumbled upon my GitHub profile so let me introduce myself.
 
-My name is Ng Zhun Onn who currently is a full-time student from <img src="https://image.flaticon.com/icons/svg/197/197581.svg" width="15" /> **Kuala Lumpur, Malaysia**. I am currently working on a Discord bot called Tavern Keeper. However, I've started getting into web development lately, and I've created a few projects that you can check out below.
-
-Not to mention that I am also a HUGE tech geek that is interested in all things related to computer hardware. I hope you like my projects and find them engaging in any way, shape, or form.
+I'm Ng Zhun Onn who's from <img src="https://image.flaticon.com/icons/svg/197/197581.svg" width="15" /> **Kuala Lumpur, Malaysia**. I'm a HUGE tech geek that is interested in all things computer related. I hope you like my projects and find them engaging in any way, shape, or form.
 
 <h3>⚡ Quick Facts</h3>
 <p>
