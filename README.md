@@ -63,6 +63,5 @@ I'm Ng Zhun Onn who's from <img src="https://image.flaticon.com/icons/svg/197/19
 ---
 <p align="center">
 	<img align="top" alt="stars" src="https://img.shields.io/github/stars/zhon12345/zhon12345?style=flat" />
-	<img align="top" alt="viewers" src="https://komarev.com/ghpvc/?username=zhon12345&label=viewers" />
 	<img align="top" alt="forks" src="https://img.shields.io/github/forks/zhon12345/zhon12345?style=flat" />
 </p>
