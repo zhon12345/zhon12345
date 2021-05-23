@@ -2,7 +2,7 @@
 
 I see you have stumbled upon my GitHub profile so let me introduce myself.
 
-I'm Ng Zhun Onn who's from <img src="https://image.flaticon.com/icons/svg/197/197581.svg" width="15" /> **Kuala Lumpur, Malaysia**. I'm a HUGE tech geek that is interested in all things computer related. I hope you like my projects and find them engaging in any way, shape, or form.
+I'm Zhun Onn who's from <img src="https://image.flaticon.com/icons/svg/197/197581.svg" width="15" /> **Kuala Lumpur, Malaysia**. I'm a HUGE tech geek that is interested in all things computer related. I hope you like my projects and find them engaging in any way, shape, or form.
 
 <h3>⚡ Quick Facts</h3>
 <p>
