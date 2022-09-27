@@ -53,7 +53,7 @@ I'm Zhun Onn who's from <img src="https://cdn-icons-png.flaticon.com/512/197/197
 	<a href="https://discord.gg/jMpw3jw" target="_blank">
 		<img src=https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
 	</a>
-	<a href="https://reddit.com/zhon12345" target="_blank">
+	<a href="https://www.reddit.com/user/zhon12345" target="_blank">
 		<img src=https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white alt=reddit style="margin-bottom: 5px;" />
 	</a>
 	<a href="https://instagram.com/zh0n12345" target="_blank">
