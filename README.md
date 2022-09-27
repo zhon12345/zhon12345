@@ -2,7 +2,7 @@
 
 I see you have stumbled upon my GitHub profile so let me introduce myself.
 
-I'm Ng Zhun Onn who's from <img src="https://image.flaticon.com/icons/svg/197/197581.svg" width="15" /> **Kuala Lumpur, Malaysia**. I'm a HUGE tech geek that is interested in all things computer related. I hope you like my projects and find them engaging in any way, shape, or form.
+I'm Zhun Onn who's from <img src="https://cdn-icons-png.flaticon.com/512/197/197581.png" width="15" /> **Kuala Lumpur, Malaysia**. I'm a HUGE tech geek that is interested in all things computer related. I hope you like my projects and find them engaging in any way, shape, or form.
 
 <h3>⚡ Quick Facts</h3>
 <p>
@@ -10,22 +10,9 @@ I'm Ng Zhun Onn who's from <img src="https://image.flaticon.com/icons/svg/197/19
 </p>
 
 - 👨‍💻 Most of my projects are available on [GitHub](https://github.com/zhon12345)
--   🔭 I’m currently working on [Tavern Keeper](https://github.com/zhon12345/Tavern_Keeper)
+-   🔭 I’m currently focusing on Studying
 -   🌱 I’m currently learning **React.js**
 -   💬 Ask me questions regarding **Discord.js**
--   📫 Reach me on 
-	<a href="https://discord.gg/REDACTED">
-  		<img align="center" alt="zhon12345's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-	</a>
-	<a href="https://reddit.com/REDACTED">
-  		<img align="center" alt="zhon12345's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" />
-	</a>
-	<a href="https://twitter.com/REDACTED">
-  		<img align="center" alt="zhon12345's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-	</a>
-	<a href="https://dev.to/REDACTED">
-  		<img align="center" alt="zhon12345's DEV.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" />
-	</a>
 -	😄 Pronouns: **He/Him**
 -   🎉 Fun fact **I can play the drums 🥁**
 
@@ -61,7 +48,15 @@ I'm Ng Zhun Onn who's from <img src="https://image.flaticon.com/icons/svg/197/19
 </p>
 
 ---
-<p align="center">
-	<img align="top" alt="stars" src="https://img.shields.io/github/stars/zhon12345/zhon12345?style=flat" />
-	<img align="top" alt="forks" src="https://img.shields.io/github/forks/zhon12345/zhon12345?style=flat" />
-</p>
+
+<div align="center">
+	<a href="https://discord.gg/REDACTED" target="_blank">
+		<img src=https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
+	</a>
+	<a href="https://reddit.com/REDACTED" target="_blank">
+		<img src=https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white alt=reddit style="margin-bottom: 5px;" />
+	</a>
+	<a href="https://instagram.com/REDACTED" target="_blank">
+		<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+	</a>  
+</div>  
