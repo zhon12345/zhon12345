@@ -39,9 +39,6 @@ I'm Zhun Onn who's from <img src="https://cdn-icons-png.flaticon.com/512/197/197
 	<a href="https://www.python.org" target="_blank"> 
   		<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="40" height="40"/></code>
 	</a> 
-	<a href="https://heroku.com" target="_blank"> 
-  		<code><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40"/></code>
-	</a>
 	<a href="https://www.mongodb.com/">
 		<code><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></code>
 	</a>
