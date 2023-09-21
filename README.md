@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Zhun Onn from <img src="./Assets/flag.png" width="15" /> **Kuala Lumpur, Malaysia**. I'm a DFT Student at TAR UMT Kuala Lumpur Campus. I enjoy music and tinkering with computers, hardware and software. Feel free to look around at my projects if you're interested.
+I'm Zhun Onn, a student from **Kuala Lumpur, Malaysia** <img src="./Assets/flag.png" width="15" /> who is currently pursuing a Diploma in IT. I enjoy music and tinkering with computers, hardware and software. Feel free to look around at my projects if you're interested.
 
 <h3>⚡ Quick Facts</h3>
 <p>
