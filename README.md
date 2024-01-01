@@ -5,8 +5,8 @@ I'm Zhun Onn, a student from **Kuala Lumpur, Malaysia** <img src="./Assets/flag.
 ### ⚡ Quick Facts</h3>
 
 -   🌱 I’m always looking forward to **learning and discovering** new things
--   🛠️ I enjoy tinkering with **computers**, hardware and software
--   📱 Daily driver: **Samsung Galaxy A50**
+-   🛠️ I enjoy tinkering with **computers**, both hardware and software
+-   📱 Daily driver: **Samsung Galaxy M14 5G**
 -   💬 Talk to me regarding **Free and Open Source Software**
 -   🎉 Fun fact: **I play the drums 🥁**
 
