@@ -1,3 +1,14 @@
+<style>
+    a {
+        text-decoration: none;
+    }
+
+    .socials {
+        margin: 0 2px 5px 2px;
+    }
+
+</style>
+
 ## Hi there 👋
 
 I'm Zhun Onn, a student from **Kuala Lumpur, Malaysia** <img src="./Assets/flag.png" width="15" /> who's currently pursuing a Diploma in IT.
@@ -75,17 +86,17 @@ I'm Zhun Onn, a student from **Kuala Lumpur, Malaysia** <img src="./Assets/flag.
 
 ---
 
-<div align="center">
+<div style="text-align: center;">
     <a href="https://steamcommunity.com/id/zhon12345" target="_blank">
-		<img src=https://img.shields.io/badge/Steam-1B2838?style=for-the-badge&logo=steam&logoColor=white alt=steam style="margin: 0 2px 5px 2px;" />
+		<img class="socials" src=https://img.shields.io/badge/Steam-1B2838?style=for-the-badge&logo=steam&logoColor=white alt=steam />
 	</a>  
 	<a href="https://discord.gg/jMpw3jw" target="_blank">
-		<img src=https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin: 0 2px 5px 2px;" />
+		<img class="socials" src=https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white alt=discord />
 	</a>
     <a href="https://instagram.com/zh0n12345" target="_blank">
-		<img src=https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin: 0 2px 5px 2px;" />
+		<img class="socials" src=https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white alt=instagram />
 	</a>
 	<a href="https://t.me/zhon12345" target="_blank">
-		<img src=https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin: 0 2px 5px 2px;" />
+		<img class="socials" src=https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white alt=telegram />
 	</a>
 </div>  
