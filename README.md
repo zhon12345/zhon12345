@@ -75,7 +75,7 @@ I'm Zhun Onn, a student from **Kuala Lumpur, Malaysia** <img src="./Assets/flag.
 
 ---
 
-<div style="text-align: center;">
+<div align="center">
     <a href="https://steamcommunity.com/id/zhon12345" target="_blank">
 		<img src=https://img.shields.io/badge/Steam-1B2838?style=for-the-badge&logo=steam&logoColor=white alt=steam style="margin: 0 2px 5px 2px;" />
 	</a>  
