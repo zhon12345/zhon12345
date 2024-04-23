@@ -45,7 +45,7 @@ I'm Zhun Onn, a student from **Kuala Lumpur, Malaysia** <img src="./Assets/flag.
   		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40" /></code>
   	</a>
     <a href="https://visualstudio.microsoft.com/" target="_blank">
-  		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"" alt="Visual Studio Code" width="40" height="40" /></code>
+  		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"" alt="Visual Studio" width="40" height="40" /></code>
   	</a>
     <a href="https://en.wikipedia.org/wiki/HTML/" target="_blank"> 
   		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/></code>
@@ -56,8 +56,8 @@ I'm Zhun Onn, a student from **Kuala Lumpur, Malaysia** <img src="./Assets/flag.
 	<a href="https://www.javascript.com/" target="_blank"> 
   		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></code>
 	</a> 
-	<a href="https://nodejs.org" target="_blank"> 
-  		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></code>
+	<a href="https://www.php.net/" target="_blank"> 
+    	<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></code>
 	</a> 
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)/" target="_blank"> 
   		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/></code>
@@ -68,9 +68,15 @@ I'm Zhun Onn, a student from **Kuala Lumpur, Malaysia** <img src="./Assets/flag.
     <a href="https://www.java.com/" target="_blank"> 
   		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/></code>
 	</a>
+	<a href="https://www.mysql.com/" target="_blank">
+		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></code>
+	</a>
 	<a href="https://www.mongodb.com/" target="_blank">
 		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/></code>
 	</a>
+	<a href="https://discord.js.org/" target="_blank"> 
+  		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" alt="Discord.js" width="40" height="40"/></code>
+	</a> 
 </p>
 
 ---
