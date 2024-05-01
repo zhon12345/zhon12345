@@ -47,10 +47,10 @@ I'm Zhun Onn, a student from **Kuala Lumpur, Malaysia** <img src="./Assets/flag.
     <a href="https://visualstudio.microsoft.com/" target="_blank">
   		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"" alt="Visual Studio" width="40" height="40" /></code>
   	</a>
-    <a href="https://en.wikipedia.org/wiki/HTML/" target="_blank"> 
+    <a href="https://html.spec.whatwg.org/multipage/" target="_blank"> 
   		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/></code>
 	</a> 
-  	<a href="https://en.wikipedia.org/wiki/CSS/" target="_blank"> 
+  	<a href="https://www.w3.org/TR/CSS/" target="_blank"> 
     	<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/></code>
 	</a> 
 	<a href="https://www.javascript.com/" target="_blank"> 
@@ -59,7 +59,7 @@ I'm Zhun Onn, a student from **Kuala Lumpur, Malaysia** <img src="./Assets/flag.
 	<a href="https://www.php.net/" target="_blank"> 
     	<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></code>
 	</a> 
-    <a href="https://en.wikipedia.org/wiki/C_(programming_language)/" target="_blank"> 
+    <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"> 
   		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/></code>
 	</a>
 	<a href="https://www.python.org" target="_blank"> 
