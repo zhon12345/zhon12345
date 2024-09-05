@@ -84,12 +84,12 @@ I'm Zhun Onn, a student from **Kuala Lumpur, Malaysia** <img src="./Assets/flag.
 <div align="center">
     <a href="https://steamcommunity.com/id/zhon12345" target="_blank">
 		<img src=https://img.shields.io/badge/Steam-1B2838?style=for-the-badge&logo=steam&logoColor=white alt=steam style="margin: 0 2px 5px 2px;" />
-	</a>  
-	<a href="https://discord.gg/jMpw3jw" target="_blank">
-		<img src=https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin: 0 2px 5px 2px;" />
+	</a> 
+	<a href="https://www.linkedin.com/in/zhon12345/" target="_blank">
+		<img src=https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white alt=instagram style="margin: 0 2px 5px 2px;" />
 	</a>
-    <a href="https://instagram.com/zh0n12345" target="_blank">
-		<img src=https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin: 0 2px 5px 2px;" />
+	<a href="https://www.discord.com/users/450846017890549761" target="_blank">
+		<img src=https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin: 0 2px 5px 2px;" />
 	</a>
 	<a href="https://t.me/zhon12345" target="_blank">
 		<img src=https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin: 0 2px 5px 2px;" />
