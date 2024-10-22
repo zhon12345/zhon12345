@@ -1,19 +1,20 @@
 ## Hi there 👋
 
-I'm Zhun Onn, a student from **Kuala Lumpur, Malaysia** <img src="./Assets/flag.png" width="15" /> who's currently pursuing a Diploma in IT.
+I'm Zhun Onn, a student from **Kuala Lumpur, Malaysia** <img src="./Assets/flag.png" width="15" /> who's currently pursuing a Diploma in Information Technology.
 
 ### ⚡ Quick Facts</h3>
 
--   🌱 I’m always looking forward to **learning and discovering** new things
+-   🌱 I’m always looking for **opportunities** to learn and discover new things
 -   🛠️ I enjoy tinkering with **computers**, both hardware and software
 -   📱 Daily driver: **Samsung Galaxy M14 5G**
--   💬 Talk to me regarding **Free and Open Source Software**
+-   💬 Talk to me about **Free and Open Source Software (FOSS)**
 -   🎉 Fun fact: **I play the drums 🥁**
 
 ### 📊 zhon12345's Analytics
+
 <p>
     <picture>
-        <source 
+        <source
         srcset="https://github-stats-alpha.zhon12345.vercel.app/api?username=zhon12345&cc=20232a&tc=fff&&ic=61dafb&bc=e4e2e2"
         media="(prefers-color-scheme: dark)"
         />
@@ -27,7 +28,7 @@ I'm Zhun Onn, a student from **Kuala Lumpur, Malaysia** <img src="./Assets/flag.
 
 <p >
     <picture>
-        <source 
+        <source
         srcset="https://github-readme-stats.zhon12345.vercel.app/api/top-langs/?username=zhon12345&theme=react&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5"
         media="(prefers-color-scheme: dark)"
         />
@@ -40,43 +41,50 @@ I'm Zhun Onn, a student from **Kuala Lumpur, Malaysia** <img src="./Assets/flag.
 </p>
 
 ### 🧰 Languages and Tools
+
 <p>
 	<a href="https://code.visualstudio.com/" target="_blank">
-  		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40" /></code>
+  		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40" /></code>
   	</a>
-    <a href="https://visualstudio.microsoft.com/" target="_blank">
-  		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"" alt="Visual Studio" width="40" height="40" /></code>
-  	</a>
-    <a href="https://html.spec.whatwg.org/multipage/" target="_blank"> 
-  		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/></code>
-	</a> 
-  	<a href="https://www.w3.org/TR/CSS/" target="_blank"> 
-    	<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/></code>
-	</a> 
-	<a href="https://www.javascript.com/" target="_blank"> 
-  		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></code>
-	</a> 
-	<a href="https://www.php.net/" target="_blank"> 
-    	<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></code>
-	</a> 
-    <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"> 
-  		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/></code>
+    <a href="https://html.spec.whatwg.org/multipage/" target="_blank">
+  		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/></code>
 	</a>
-	<a href="https://www.python.org" target="_blank"> 
-  		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/></code>
+  	<a href="https://www.w3.org/TR/CSS/" target="_blank">
+    	<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/></code>
 	</a>
-    <a href="https://www.java.com/" target="_blank"> 
-  		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/></code>
+	<a href="https://www.javascript.com/" target="_blank">
+  		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></code>
 	</a>
-	<a href="https://www.mysql.com/" target="_blank">
-		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></code>
+	<a href="https://www.php.net/" target="_blank">
+    	<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></code>
+	</a>
+	    <a href="https://www.java.com/" target="_blank">
+  		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="40" height="40"/></code>
+	</a>
+    <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank">
+  		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="40" height="40"/></code>
+	</a>
+	<a href="https://www.python.org" target="_blank">
+  		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40"/></code>
+	</a>
+	    <a href="https://nodejs.org/" target="_blank">
+  		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></code>
+	</a>
+	<a href="https://vuejs.org/" target="_blank">
+  		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/></code>
+	</a>
+	<a href="https://expressjs.com/" target="_blank">
+  		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/></code>
+	</a>
+	<a href="https://discord.js.org/" target="_blank">
+  		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg" alt="Discord.js" width="40" height="40"/></code>
 	</a>
 	<a href="https://www.mongodb.com/" target="_blank">
-		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/></code>
+		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/></code>
 	</a>
-	<a href="https://discord.js.org/" target="_blank"> 
-  		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" alt="Discord.js" width="40" height="40"/></code>
-	</a> 
+	<a href="https://www.mysql.com/" target="_blank">
+		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></code>
+	</a>
 </p>
 
 ---
@@ -84,7 +92,7 @@ I'm Zhun Onn, a student from **Kuala Lumpur, Malaysia** <img src="./Assets/flag.
 <div align="center">
     <a href="https://steamcommunity.com/id/zhon12345" target="_blank">
 		<img src=https://img.shields.io/badge/Steam-1B2838?style=for-the-badge&logo=steam&logoColor=white alt=steam style="margin: 0 2px 5px 2px;" />
-	</a> 
+	</a>
 	<a href="https://www.linkedin.com/in/zhon12345/" target="_blank">
 		<img src=https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white alt=instagram style="margin: 0 2px 5px 2px;" />
 	</a>
@@ -94,4 +102,4 @@ I'm Zhun Onn, a student from **Kuala Lumpur, Malaysia** <img src="./Assets/flag.
 	<a href="https://t.me/zhon12345" target="_blank">
 		<img src=https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin: 0 2px 5px 2px;" />
 	</a>
-</div>  
+</div>
