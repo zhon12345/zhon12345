@@ -35,27 +35,23 @@ I'm Zhun Onn, a student from **Kuala Lumpur, Malaysia** <img src="./Assets/flag.
 ### 🧰 Languages and Tools
 
 <p>
-	<!-- IDEs/Editors -->
-	<a href="https://code.visualstudio.com/" target="_blank">
-		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40" /></code>
-	</a>
 	<!-- Programming Languages -->
-	<a href="https://www.javascript.com/" target="_blank">
-		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></code>
-	</a>
 	<a href="https://www.typescriptlang.org/" target="_blank">
 		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></code>
+	</a>
+	<a href="https://www.javascript.com/" target="_blank">
+		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></code>
 	</a>
 	<a href="https://www.python.org" target="_blank">
 		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40"/></code>
 	</a>
-	<a href="https://www.php.net/" target="_blank">
-		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></code>
-	</a>
 	<a href="https://www.java.com/" target="_blank">
 		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="40" height="40"/></code>
 	</a>
-    <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank">
+	<a href="https://www.php.net/" target="_blank">
+		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></code>
+	</a>
+  <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank">
 		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="40" height="40"/></code>
 	</a>
 	<!-- Frontend -->
@@ -68,6 +64,9 @@ I'm Zhun Onn, a student from **Kuala Lumpur, Malaysia** <img src="./Assets/flag.
 	<a href="https://vuejs.org/" target="_blank">
 		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/></code>
 	</a>
+	<a href="https://getbootstrap.com/" target="_blank">
+		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/></code>
+	</a>
 	<a href="https://tailwindcss.com/" target="_blank">
 		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/></code>
 	</a>
@@ -78,12 +77,28 @@ I'm Zhun Onn, a student from **Kuala Lumpur, Malaysia** <img src="./Assets/flag.
 	<a href="https://expressjs.com/" target="_blank">
 		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/></code>
 	</a>
+	<a href="https://axios-http.com/" target="_blank">
+		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" alt="Axios" width="40" height="40"/></code>
+	</a>
+	<a href="https://discord.js.org/" target="_blank">
+		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg" alt="Discord.js" width="40" height="40"/></code>
+	</a>
+	<a href="https://www.prisma.io/" target="_blank">
+		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" alt="Prisma" width="40" height="40"/></code>
+	</a>
 	<!-- Databases -->
 	<a href="https://www.mongodb.com/" target="_blank">
 		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/></code>
 	</a>
 	<a href="https://www.mysql.com/" target="_blank">
 		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></code>
+	</a>
+	<!-- Tools -->
+	<a href="https://code.visualstudio.com/" target="_blank">
+		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40" /></code>
+	</a>
+	<a href="https://dbeaver.io/" target="_blank">
+		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" alt="DBeaver" width="40" height="40" /></code>
 	</a>
 </p>
 
