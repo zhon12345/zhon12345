@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Zhun Onn, a student from **Kuala Lumpur, Malaysia** <img src="./Assets/flag.png" width="15" /> who's currently pursuing a Bachelor's Degree in Software Engineering.
+I'm Zhun Onn, a student from **Kuala Lumpur, Malaysia** <img src="./assets/flag.png" width="15" /> who's currently pursuing a Bachelor's Degree in Software Engineering.
 
 ### ⚡ Quick Facts
 
