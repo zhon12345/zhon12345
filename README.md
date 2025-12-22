@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-I'm Zhun Onn, a student from **Kuala Lumpur, Malaysia** <img src="./Assets/flag.png" width="15" /> who's currently pursuing a Diploma in Information Technology.
+I'm Zhun Onn, a student from **Kuala Lumpur, Malaysia** <img src="./Assets/flag.png" width="15" /> who's currently pursuing a Bachelor's Degree in Software Engineering.
 
 ### ⚡ Quick Facts
 
 - 🌱 I’m always looking for **opportunities** to learn and discover new things
 - 🛠️ I enjoy tinkering with **computers**, both hardware and software
-- 📱 Daily driver: **Samsung Galaxy M14 5G**
+- 📱 Daily driver: **Samsung Galaxy S25 FE**
 - 💬 Talk to me about **Free and Open Source Software (FOSS)**
 - 🎉 Fun fact: **I play the drums 🥁**
 
