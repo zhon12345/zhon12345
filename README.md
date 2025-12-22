@@ -65,7 +65,7 @@ I'm Zhun Onn, a student from **Kuala Lumpur, Malaysia** <img src="./assets/flag.
 		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/></code>
 	</a>
 	<a href="https://www.djangoproject.com/" target="_blank">
-		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django" width="40" height="40"/></code>
+		<code><img src="./assets/icons/django-plain.svg" alt="Django" width="40" height="40"/></code>
 	</a>
 	<a href="https://jquery.com/" target="_blank">
 		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40"/></code>
@@ -80,7 +80,7 @@ I'm Zhun Onn, a student from **Kuala Lumpur, Malaysia** <img src="./assets/flag.
 		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></code>
 	</a>
 	<a href="https://expressjs.com/" target="_blank">
-		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/></code>
+		<code><img src="./assets/icons/express-original.svg" alt="Express.js" width="40" height="40"/></code>
 	</a>
 	<a href="https://discord.js.org/" target="_blank">
 		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg" alt="Discord.js" width="40" height="40"/></code>
@@ -102,7 +102,7 @@ I'm Zhun Onn, a student from **Kuala Lumpur, Malaysia** <img src="./assets/flag.
 		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/></code>
 	</a>
 	<a href="https://www.prisma.io/" target="_blank">
-		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" alt="Prisma" width="40" height="40"/></code>
+		<code><img src="./assets/icons/prisma-original.svg" alt="Prisma" width="40" height="40"/></code>
 	</a>
 	<!-- Tools -->
 	<a href="https://www.docker.com/" target="_blank">
