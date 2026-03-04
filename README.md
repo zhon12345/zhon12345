@@ -122,16 +122,13 @@ I'm Zhun Onn, a student from **Kuala Lumpur, Malaysia** <img src="./assets/flag.
 ---
 
 <div align="center">
-	<a href="https://steamcommunity.com/id/REDACTED" target="_blank">
-		<img src=https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white alt=steam style="margin: 0 2px 5px 2px;" />
-	</a>
 	<a href="https://www.linkedin.com/in/ngzhunonn/" target="_blank">
 		<img src=https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white alt=instagram style="margin: 0 2px 5px 2px;" />
 	</a>
-	<a href="https://www.discord.com/users/REDACTED" target="_blank">
-		<img src=https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin: 0 2px 5px 2px;" />
+	<a href="https://gitlab.com/zhon12345" target="_blank">
+		<img src=https://img.shields.io/badge/GitLab-E24329?style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin: 0 2px 5px 2px;" />
 	</a>
-	<a href="https://t.me/REDACTED" target="_blank">
-		<img src=https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin: 0 2px 5px 2px;" />
+	<a href="https://codeberg.org/zhon12345" target="_blank">
+		<img src=https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=codeberg&logoColor=white alt=codeberg style="margin: 0 2px 5px 2px;" />
 	</a>
 </div>
