@@ -22,7 +22,7 @@ I'm Zhun Onn, a student from **Kuala Lumpur, Malaysia** <img src="./assets/flag.
 	</picture>
 </p>
 
-<p >
+<p>
 	<picture>
 		<source
 			srcset="https://github-readme-stats.zhon12345.vercel.app/api/top-langs/?username=zhon12345&theme=react&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5"
@@ -37,85 +37,85 @@ I'm Zhun Onn, a student from **Kuala Lumpur, Malaysia** <img src="./assets/flag.
 <p>
 	<!-- Programming Languages -->
 	<a href="https://www.typescriptlang.org/" target="_blank">
-		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></code>
+		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" height="40" style="vertical-align:down;"/></code>
 	</a>
 	<a href="https://www.javascript.com/" target="_blank">
-		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></code>
+		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" style="vertical-align:down;"/></code>
 	</a>
 	<a href="https://www.python.org" target="_blank">
-		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40"/></code>
+		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" height="40" style="vertical-align:down;"/></code>
 	</a>
 	<a href="https://www.java.com/" target="_blank">
-		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="40" height="40"/></code>
+		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" height="40" style="vertical-align:down;"/></code>
 	</a>
 	<a href="https://www.php.net/" target="_blank">
-		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></code>
+		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" height="40" style="vertical-align:down;"/></code>
 	</a>
   <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank">
-		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="40" height="40"/></code>
+		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" height="40" style="vertical-align:down;"/></code>
 	</a>
 	<a href="https://html.spec.whatwg.org/multipage/" target="_blank">
-		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/></code>
+		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" height="40" style="vertical-align:down;"/></code>
 	</a>
 	<a href="https://www.w3.org/TR/CSS/" target="_blank">
-		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/></code>
+		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" height="40" style="vertical-align:down;"/></code>
 	</a>
 	<!-- Frameworks & Runtimes -->
 	<a href="https://vuejs.org/" target="_blank">
-		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/></code>
+		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Vue.js" height="40" style="vertical-align:down;"/></code>
 	</a>
 	<a href="https://www.djangoproject.com/" target="_blank">
-		<code><img src="./assets/icons/django-plain.svg" alt="Django" width="40" height="40"/></code>
+		<code><img src="./assets/icons/django-plain.svg" alt="Django" height="40" style="vertical-align:down;"/></code>
 	</a>
 	<a href="https://jquery.com/" target="_blank">
-		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40"/></code>
+		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" alt="jQuery" height="40" style="vertical-align:down;"/></code>
 	</a>
 	<a href="https://tailwindcss.com/" target="_blank">
-		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/></code>
+		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" height="40" style="vertical-align:down;"/></code>
 	</a>
 	<a href="https://getbootstrap.com/" target="_blank">
-		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/></code>
+		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="40" style="vertical-align:down;"/></code>
 	</a>
 	<a href="https://nodejs.org/" target="_blank">
-		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></code>
+		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" height="40" style="vertical-align:down;"/></code>
 	</a>
 	<a href="https://expressjs.com/" target="_blank">
-		<code><img src="./assets/icons/express-original.svg" alt="Express.js" width="40" height="40"/></code>
+		<code><img src="./assets/icons/express-original.svg" alt="Express.js" height="40" style="vertical-align:down;"/></code>
 	</a>
 	<a href="https://discord.js.org/" target="_blank">
-		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg" alt="Discord.js" width="40" height="40"/></code>
+		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg" alt="Discord.js" height="40" style="vertical-align:down;"/></code>
 	</a>
 	<!-- Databases -->
 	<a href="https://www.postgresql.org/" target="_blank">
-		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></code>
+		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="40" style="vertical-align:down;"/></code>
 	</a>
 	<a href="https://www.mongodb.com/" target="_blank">
-		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/></code>
+		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="40" style="vertical-align:down;"/></code>
 	</a>
 	<a href="https://www.mysql.com/" target="_blank">
-		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></code>
+		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" height="40" style="vertical-align:down;"/></code>
 	</a>
 	<a href="https://sqlite.org/" target="_blank">
-		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/></code>
+		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLite" height="40" style="vertical-align:down;"/></code>
 	</a>
 	<a href="https://redis.io/" target="_blank">
-		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/></code>
+		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis" height="40" style="vertical-align:down;"/></code>
 	</a>
 	<a href="https://www.prisma.io/" target="_blank">
-		<code><img src="./assets/icons/prisma-original.svg" alt="Prisma" width="40" height="40"/></code>
+		<code><img src="./assets/icons/prisma-original.svg" alt="Prisma" height="40" style="vertical-align:down;"/></code>
 	</a>
 	<!-- Tools -->
 	<a href="https://www.docker.com/" target="_blank">
-		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" alt="Docker" width="40" height="40" /></code>
+		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" alt="Docker" height="40" style="vertical-align:down;" /></code>
 	</a>
 	<a href="https://kernel.org/" target="_blank">
-		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" /></code>
+		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" height="40" style="vertical-align:down;" /></code>
 	</a>
 	<a href="https://code.visualstudio.com/" target="_blank">
-		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40" /></code>
+		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" height="40" style="vertical-align:down;" /></code>
 	</a>
 	<a href="https://dbeaver.io/" target="_blank">
-		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" alt="DBeaver" width="40" height="40" /></code>
+		<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" alt="DBeaver" height="40" style="vertical-align:down;" /></code>
 	</a>
 </p>
 
